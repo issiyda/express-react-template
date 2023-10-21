@@ -13,7 +13,7 @@ docker-compose up
 frontend の構築
 
 ```
-cd frontendo
+cd frontend
 
 yarn
 
